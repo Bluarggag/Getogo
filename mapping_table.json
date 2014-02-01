@@ -1,0 +1,10 @@
+{
+    "version": 1.0,
+    "urnmapping": {
+        "shaders/defaultrendering.cgfx": "defaultrendering_5ksDOmhhEt0wGIKuawH26A.cgfx.json",
+        "shaders/debug.cgfx": "debug_QFnJkvXaO_Nh8GE4pQA25A.cgfx.json",
+        "shaders/standard.cgfx": "standard_BM7hdSBmh1H2xpccw54zaw.cgfx.json",
+        "textures/duck.png": "duck_ZY6NwL-LmgmzaZSr-SQgmQ.png",
+        "models/duck.dae": "duck_RAL_-vbPSiAZSiVSegoyEg.dae.json"
+    }
+}

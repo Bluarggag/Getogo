@@ -1,0 +1,69 @@
+constant:
+    type: constant
+    meta:
+        normals: true
+
+lambert:
+    type: lambert
+    meta:
+        normals: true
+
+blinn:
+    type: blinn
+    meta:
+        normals: true
+
+phong:
+    type: phong
+    meta:
+        normals: true
+
+normalmap:
+    type: normalmap
+    meta:
+        tangents: true
+
+normalmap_specularmap:
+    type: normalmap_specularmap
+    meta:
+        tangents: true
+
+normalmap_specularmap_alphamap:
+    type: normalmap_specularmap_alphamap
+    meta:
+        tangents: true
+
+normalmap_alphatest:
+    type: normalmap_alphatest
+    meta:
+        tangents: true
+
+normalmap_specularmap_alphatest:
+    type: normalmap_specularmap_alphatest
+    meta:
+        tangents: true
+
+normalmap_glowmap:
+    type: normalmap_glowmap
+    meta:
+        tangents: true
+
+normalmap_specularmap_glowmap:
+    type: normalmap_specularmap_glowmap
+    meta:
+        tangents: true
+
+debug_normals:
+    type: debug_normals
+    meta:
+        normals: true
+
+debug_tangents:
+    type: debug_tangents
+    meta:
+        tangents: true
+
+debug_binormals:
+    type: debug_binormals
+    meta:
+        tangents: true

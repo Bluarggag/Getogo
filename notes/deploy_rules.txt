@@ -1,0 +1,9 @@
+﻿
+
+/* lib files*/
+/*{{ javascript("lib/core.js") }}*/
+/*{{ javascript("lib/jquery-1.10.2.js") }}*/
+/*{{ javascript("lib/underscore-min.js") }}*/
+/*{{ javascript("lib/backbone-min.js") }}*/
+
+/*{{ javascript("source/Components.js") }}*/

@@ -1,0 +1,33 @@
+aspect_ratio: '16:9'
+canvas_main: start.canvas.js
+cover_art: ''
+deploy_files:
+- start.canvas.js
+- mapping_table.json
+- source/*
+- staticmax/*
+- jslib/*
+- jslib/webgl/*
+- protolib/*
+- lib/*
+- source/client/*
+- source/client/systems/*
+- source/entities/*
+- source/server/*
+- source/server/systems/*
+- source/util/*
+- jslib/services/*
+- start.canvas.html
+deployed: 22:20 | 19/11/2013
+engine_version: '0.27'
+flash_main: ''
+has_notifications: false
+is_multiplayer: true
+is_temp: false
+mapping_table: mapping_table.json
+modified: 23:16 | 12/11/2013
+path: C:\Users\Dude\Projects\Getogo\Getogo
+plugin_main: ''
+slug: getogo
+title: Getogo
+title_logo: ''
