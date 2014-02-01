@@ -27,7 +27,7 @@ if defined _OLD_VIRTUAL_PATH (
 set "PATH=%VIRTUAL_ENV%\Scripts;%PATH%"
 
 
-cd C:\Users\Dude\Projects\Getogo\Getogo
+cd C:\Users\Dude\Documents\GitHub\Getogo
 
 makehtml --mode canvas-debug -t . start.js -o start.canvas.debug.html
 
